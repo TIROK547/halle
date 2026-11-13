@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source_id": "ir-biology12-112216-print1405",
+  "status": "recovered_pending_permission_and_reviewer",
+  "title": "زیست‌شناسی (۳)",
+  "book_code": "112216",
+  "grade": 12,
+  "school_year": "1405-1406",
+  "print_year": 1405,
+  "printing": 9,
+  "publisher_listing": "http://chap.sch.ir/books/14364",
+  "download_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/712/C112216.pdf",
+  "retrieved_date": "2026-11-13",
+  "date_timezone": "Asia/Tehran",
+  "local_file": "data/sources/biology12-1405/C112216.pdf",
+  "bytes": 6587991,
+  "sha256": "e0b8f1be318499a2b162f30a9dea9fc8e8cc334e633ee9748ddfd38e6e0ebd91",
+  "listing_sha256": "79e01ed20b47a8bf02055ed86661671fcc3c757b6b65442b8d247647f7c33a78",
+  "pdf_pages": 136,
+  "transport": "HTTP; HTTPS hostname certificate verification failed",
+  "integrity_note": "Hash identifies downloaded bytes; no publisher signature or independently verified checksum obtained.",
+  "rights_status": "permission_required_by_notice; permission_not_obtained",
+  "rights_notice_pdf_page": 4,
+  "edition_pdf_page": 2,
+  "contents_pdf_page": 5,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "مولکول‌های اطلاعاتی",
+      "printed_pages": [
+        1,
+        20
+      ],
+      "pdf_pages_one_based": [
+        9,
+        28
+      ]
+    },
+    {
+      "number": 2,
+      "title": "جریان اطلاعات در یاخته",
+      "printed_pages": [
+        21,
+        36
+      ],
+      "pdf_pages_one_based": [
+        29,
+        44
+      ]
+    }
+  ],
+  "page_mapping_note": "PDF page = printed page + 8 for selected chapters; boundaries checked against extracted chapter starts and contents.",
+  "reviewer_approved": false,
+  "release_edition_approved": false,
+  "production_ingestion_allowed": false
+}

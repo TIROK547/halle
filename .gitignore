@@ -1,0 +1,47 @@
+# Local credentials and account sessions
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.session
+*.session-*
+*.session.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets/
+private/
+.local/
+
+# Research and runtime data stay outside the implementation repository.
+# Deliberate, sanitized fixtures may be added under testdata/ in later tasks.
+/research/
+/halle_docs/
+/tools/halle_corpus/
+/tools/halle_experiments/
+/tools/harvest_inventory.py
+/tools/peek_saved.py
+/tools/peek_caption.py
+/data/
+/uploads/
+/backups/
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+*.db
+*.db-*
+
+# Generated environments and build outputs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+/bin/
+/dist/
+/coverage/
+*.test
+coverage.out
+.DS_Store
